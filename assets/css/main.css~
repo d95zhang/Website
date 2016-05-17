@@ -2007,7 +2007,7 @@
 		}
 
 			#header .icons a {
-				color: #41484c;
+				color: #444444;
 				-moz-transition: color 0.35s ease-in-out;
 				-webkit-transition: color 0.35s ease-in-out;
 				-ms-transition: color 0.35s ease-in-out;
@@ -2083,7 +2083,7 @@
 		}
 
 			#nav ul li a.active span:before {
-				color: #ffffff;
+				color: #e27689;
 			}
 
 /* Footer */
