@@ -26,7 +26,7 @@
 							<span class="image avatar80"><img src="https://dl.dropboxusercontent.com/s/f0fou4e1k6vtm6d/      
                                 avatar.png?dl=0" alt="" /></span>
 							<h1 id="title">Diana Zhang</h1>
-							<p>Graduate Student<br>of Computer Systems</p>
+							<p>Graduate Student<br>in Computer Systems</p>
                             <p>Carnegie Mellon University</p>
 						</div>
 
@@ -46,10 +46,14 @@
 
 							-->
 							<ul>
-								<li><a href="#top" id="top-link" class="skel-layers-ignoreHref"><span class="icon fa-home">Welcome</span></a></li>
-								<li><a href="#portfolio" id="portfolio-link" class="skel-layers-ignoreHref"><span class="icon fa-th">Projects</span></a></li>
-								<li><a href="#about" id="about-link" class="skel-layers-ignoreHref"><span class="icon fa-user">About Me</span></a></li>
-								<li><a href="#contact" id="contact-link" class="skel-layers-ignoreHref"><span class="icon fa-envelope">Contact</span></a></li>
+								<li><a href="#top" id="top-link" class="skel-layers-ignoreHref">
+                                    <span class="icon fa-home">Home</span></a></li>
+								<li><a href="#portfolio" id="portfolio-link" class="skel-layers-ignoreHref">
+                                    <span class="icon fa-th">Projects</span></a></li>
+								<li><a href="#about" id="about-link" class="skel-layers-ignoreHref">
+                                    <span class="icon fa-user">About Me</span></a></li>
+								<li><a href="#contact" id="contact-link" class="skel-layers-ignoreHref">
+                                    <span class="icon fa-envelope">Contact</span></a></li>
 							</ul>
 						</nav>
 
@@ -59,7 +63,7 @@
 
 					<!-- Social Icons -->
 						<ul class="icons">
-							<li><a href="https://twitter.com/dianazhangnet" class="icon fa-twitter">
+							<li><a href="https://twitter.com/zhangnette" class="icon fa-twitter">
                                 <span class="label">Twitter</span></a></li>
 							<li><a href="https://github.com/d95zhang" class="icon fa-github">
                                 <span class="label">Github</span></a></li>
@@ -81,10 +85,10 @@
 						<div class="container">
 
 							<header>
-								<h2 class="alt">Hello! I'm <strong>Diana Zhang</strong>,<br>
+								<h2 class="alt">Welcome! I'm <strong>Diana Zhang</strong>,<br>
                                 a graduate student at <a href="http://www.ece.cmu.edu/">CMU ECE</a>.</h2>
-								<p>I am passionate about embedded systems, wireless sensor networks,<br>
-                                and improving everyday lives, one tiny step at a time.</p>
+								<p>My areas of specialization are embedded systems, wireless sensor networks,<br>
+                                asking questions, and enacting change a bit at a time.</p>
 							</header>
 
 							<footer>
@@ -102,51 +106,36 @@
 								<h2>Projects</h2>
 							</header>
 
-							<p>Vitae natoque dictum etiam semper magnis enim feugiat convallis convallis
-							egestas rhoncus ridiculus in quis risus amet curabitur tempor orci penatibus.
-							Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis
-							fusce hendrerit lacus ridiculus.</p>
+							<p>Click the images below for further information about my current and past projects.</p>
 
 							<div class="row">
 								<div class="4u 12u$(mobile)">
 									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
+										<a href="projects.html#VehicularIoT" class="image fit"><img src="images/pic03.jpg" alt="" /></a>
 										<header>
-											<h3>Ipsum Feugiat</h3>
+											<h3>Vehicular IoT</h3>
 										</header>
 									</article>
 									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic03.jpg" alt="" /></a>
+										<a href="projects.html#ElecSystems" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
 										<header>
-											<h3>Rhoncus Semper</h3>
+											<h3>Electronic Systems</h3>
 										</header>
 									</article>
 								</div>
 								<div class="4u 12u$(mobile)">
 									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic04.jpg" alt="" /></a>
+										<a href="projects.html#Radar" class="image fit"><img src="images/pic04.jpg" alt="" /></a>
 										<header>
-											<h3>Magna Nullam</h3>
-										</header>
-									</article>
-									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
-										<header>
-											<h3>Natoque Vitae</h3>
+											<h3>Noise Radar Target Location</h3>
 										</header>
 									</article>
 								</div>
-								<div class="4u$ 12u$(mobile)">
+								<div class="4u 12u$(mobile)">
 									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic06.jpg" alt="" /></a>
+										<a href="projects.html#Mayfly" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
 										<header>
-											<h3>Dolor Penatibus</h3>
-										</header>
-									</article>
-									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic07.jpg" alt="" /></a>
-										<header>
-											<h3>Orci Convallis</h3>
+											<h3>The Mayfly Project</h3>
 										</header>
 									</article>
 								</div>
@@ -169,9 +158,9 @@
 
 							<p>Currently, I'm located in Melbourne, Fl where I am working as an Embedded Software 
                                 Engineering Intern at Harris Corporation. As a May 2016 graduate of Penn State University,
-                                I hold dual degrees in Electrical Engineering and Computer Engineering. With this breadth,
-                                my willingness to learn, and my natural initiative, I am settling for no less than
-                                changing the world.</p>
+                                I hold dual degrees in Electrical Engineering and Computer Engineering. For more 
+                                information about my technical experience, check out my 
+                                <a href="resume.pdf"> resume. </a></p>
 
                             <p>In addition my technical work, I value teaching and outreach. I am experienced as
                                 a tutor, lab assistant, and teaching intern for classes including Digital Design, 
